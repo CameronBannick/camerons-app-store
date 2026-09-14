@@ -181,6 +181,7 @@ body {
   border: 1px solid var(--border);
   font-size: 13px;
 }
+.empty code[hidden] { display: none; }
 
 .footer {
   text-align: center;
