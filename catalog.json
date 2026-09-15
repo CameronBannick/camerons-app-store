@@ -17,21 +17,6 @@
                                      ]
                  },
                  {
-                     "id":  "video-game-life",
-                     "name":  "LevelUp",
-                     "tagline":  "Level up your life across nine categories",
-                     "description":  "A gamified personal-development tracker. Earn XP and level up across nine life categories, log activities and daily habits, complete daily and weekly quests, and track vices with streaks. Works fully offline.",
-                     "version":  "1.5.20",
-                     "category":  "Productivity",
-                     "updated":  "2026-09-10",
-                     "icon":  "icons/video-game-life.png",
-                     "apk":  "apps/video-game-life-1.5.20.apk",
-                     "size":  "26.3 MB",
-                     "screenshots":  [
-
-                                     ]
-                 },
-                 {
                      "id":  "pep-in-your-step",
                      "name":  "SupplementTracker",
                      "tagline":  "Track your supplement and peptide doses",
@@ -42,6 +27,21 @@
                      "icon":  "icons/pep-in-your-step.png",
                      "apk":  "apps/pep-in-your-step-1.0.7.apk",
                      "size":  "4.5 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "video-game-life",
+                     "name":  "LevelUp",
+                     "tagline":  "Level up your life across nine categories",
+                     "description":  "A gamified personal-development tracker. Earn XP and level up across nine life categories, log activities and daily habits, complete daily and weekly quests, and track vices with streaks. Works fully offline.",
+                     "version":  "1.5.21",
+                     "category":  "Productivity",
+                     "updated":  "2026-09-14",
+                     "icon":  "icons/video-game-life.png",
+                     "apk":  "apps/video-game-life-1.5.21.apk",
+                     "size":  "26.3 MB",
                      "screenshots":  [
 
                                      ]
