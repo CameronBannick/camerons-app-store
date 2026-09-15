@@ -17,21 +17,6 @@
                                      ]
                  },
                  {
-                     "id":  "pep-in-your-step",
-                     "name":  "SupplementTracker",
-                     "tagline":  "Track your supplement and peptide doses",
-                     "description":  "Schedule recurring supplement and peptide doses with local reminders, mark them taken each day, and review your dose history. Styled after the Solo Leveling System. Works fully offline.",
-                     "version":  "1.0.7",
-                     "category":  "Health",
-                     "updated":  "2026-09-10",
-                     "icon":  "icons/pep-in-your-step.png",
-                     "apk":  "apps/pep-in-your-step-1.0.7.apk",
-                     "size":  "4.5 MB",
-                     "screenshots":  [
-
-                                     ]
-                 },
-                 {
                      "id":  "video-game-life",
                      "name":  "LevelUp",
                      "tagline":  "Level up your life across nine categories",
@@ -42,6 +27,21 @@
                      "icon":  "icons/video-game-life.png",
                      "apk":  "apps/video-game-life-1.5.21.apk",
                      "size":  "26.3 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "pep-in-your-step",
+                     "name":  "ProtocolsTracker",
+                     "tagline":  "Track your daily compounds and actions",
+                     "description":  "Schedule recurring compounds (supplements and peptides) and actions with local reminders, check them off each day, and see how often you complete each one. Styled after the Solo Leveling System. Works fully offline.",
+                     "version":  "1.0.8",
+                     "category":  "Health",
+                     "updated":  "2026-09-14",
+                     "icon":  "icons/pep-in-your-step.png",
+                     "apk":  "apps/pep-in-your-step-1.0.8.apk",
+                     "size":  "4.2 MB",
                      "screenshots":  [
 
                                      ]
