@@ -17,21 +17,6 @@
                                      ]
                  },
                  {
-                     "id":  "pep-in-your-step",
-                     "name":  "ProtocolsTracker",
-                     "tagline":  "Track your daily compounds and actions",
-                     "description":  "Schedule recurring compounds (supplements and peptides) and actions with local reminders, check them off each day, and see how often you complete each one. Styled after the Solo Leveling System. Works fully offline.",
-                     "version":  "1.0.9",
-                     "category":  "Health",
-                     "updated":  "2026-09-15",
-                     "icon":  "icons/pep-in-your-step.png",
-                     "apk":  "apps/pep-in-your-step-1.0.9.apk",
-                     "size":  "4.3 MB",
-                     "screenshots":  [
-
-                                     ]
-                 },
-                 {
                      "id":  "habit-tracker",
                      "name":  "HabitTracker",
                      "tagline":  "Daily habits, weekly tasks and vices, fed to LevelUp",
@@ -51,12 +36,27 @@
                      "name":  "LevelUp",
                      "tagline":  "Level up your life across nine categories",
                      "description":  "A gamified personal-development tracker. Earn XP and level up across nine life categories, complete daily and weekly quests, and collect completions from HabitTracker, WeeklyPlanner and ProtocolsTracker. Works fully offline.",
-                     "version":  "1.5.23",
+                     "version":  "1.5.24",
                      "category":  "Productivity",
-                     "updated":  "2026-09-15",
+                     "updated":  "2026-09-20",
                      "icon":  "icons/video-game-life.png",
-                     "apk":  "apps/video-game-life-1.5.23.apk",
+                     "apk":  "apps/video-game-life-1.5.24.apk",
                      "size":  "26.3 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "pep-in-your-step",
+                     "name":  "ProtocolsTracker",
+                     "tagline":  "Track your daily compounds and actions",
+                     "description":  "Schedule recurring compounds (supplements and peptides) and actions with local reminders, check them off each day, and see how often you complete each one. Styled after the Solo Leveling System. Works fully offline.",
+                     "version":  "1.0.10",
+                     "category":  "Health",
+                     "updated":  "2026-09-20",
+                     "icon":  "icons/pep-in-your-step.png",
+                     "apk":  "apps/pep-in-your-step-1.0.10.apk",
+                     "size":  "4.2 MB",
                      "screenshots":  [
 
                                      ]
