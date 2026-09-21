@@ -36,11 +36,11 @@
                      "name":  "LevelUp",
                      "tagline":  "Level up your life across nine categories",
                      "description":  "A gamified personal-development tracker. Earn XP and level up across nine life categories, complete daily and weekly quests, and collect completions from HabitTracker, WeeklyPlanner and ProtocolsTracker. Works fully offline.",
-                     "version":  "1.5.25",
+                     "version":  "1.5.26",
                      "category":  "Productivity",
                      "updated":  "2026-09-20",
                      "icon":  "icons/video-game-life.png",
-                     "apk":  "apps/video-game-life-1.5.25.apk",
+                     "apk":  "apps/video-game-life-1.5.26.apk",
                      "size":  "26.3 MB",
                      "screenshots":  [
 
@@ -51,11 +51,11 @@
                      "name":  "HabitTracker",
                      "tagline":  "Daily habits, weekly tasks and vices, fed to LevelUp",
                      "description":  "Owns three areas for LevelUp: daily habits, weekly tasks and vices. Plan habits day by day (each week pre-fills from the last), keep a weekly to-do list, and track vices with a budget of 4 weed credits a week, No Porn and 3+ Drinks. Every check-off lands in LevelUp with its XP automatically. Styled after the Solo Leveling System. Works fully offline.",
-                     "version":  "1.0.2",
+                     "version":  "1.0.3",
                      "category":  "Productivity",
                      "updated":  "2026-09-20",
                      "icon":  "icons/habit-tracker.png",
-                     "apk":  "apps/habit-tracker-1.0.2.apk",
+                     "apk":  "apps/habit-tracker-1.0.3.apk",
                      "size":  "5.1 MB",
                      "screenshots":  [
 
