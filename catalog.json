@@ -17,36 +17,6 @@
                                      ]
                  },
                  {
-                     "id":  "habit-tracker",
-                     "name":  "HabitTracker",
-                     "tagline":  "Daily habits, weekly tasks and vices, fed to LevelUp",
-                     "description":  "Owns three areas for LevelUp: daily habits, weekly tasks and vices. Plan habits day by day (each week pre-fills from the last), keep a weekly to-do list, and track vices with a budget of 4 weed credits a week, No Porn and 3+ Drinks. Every check-off lands in LevelUp with its XP automatically. Styled after the Solo Leveling System. Works fully offline.",
-                     "version":  "1.0.1",
-                     "category":  "Productivity",
-                     "updated":  "2026-09-15",
-                     "icon":  "icons/habit-tracker.png",
-                     "apk":  "apps/habit-tracker-1.0.1.apk",
-                     "size":  "5.1 MB",
-                     "screenshots":  [
-
-                                     ]
-                 },
-                 {
-                     "id":  "video-game-life",
-                     "name":  "LevelUp",
-                     "tagline":  "Level up your life across nine categories",
-                     "description":  "A gamified personal-development tracker. Earn XP and level up across nine life categories, complete daily and weekly quests, and collect completions from HabitTracker, WeeklyPlanner and ProtocolsTracker. Works fully offline.",
-                     "version":  "1.5.24",
-                     "category":  "Productivity",
-                     "updated":  "2026-09-20",
-                     "icon":  "icons/video-game-life.png",
-                     "apk":  "apps/video-game-life-1.5.24.apk",
-                     "size":  "26.3 MB",
-                     "screenshots":  [
-
-                                     ]
-                 },
-                 {
                      "id":  "pep-in-your-step",
                      "name":  "ProtocolsTracker",
                      "tagline":  "Track your daily compounds and actions",
@@ -57,6 +27,36 @@
                      "icon":  "icons/pep-in-your-step.png",
                      "apk":  "apps/pep-in-your-step-1.0.10.apk",
                      "size":  "4.2 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "video-game-life",
+                     "name":  "LevelUp",
+                     "tagline":  "Level up your life across nine categories",
+                     "description":  "A gamified personal-development tracker. Earn XP and level up across nine life categories, complete daily and weekly quests, and collect completions from HabitTracker, WeeklyPlanner and ProtocolsTracker. Works fully offline.",
+                     "version":  "1.5.25",
+                     "category":  "Productivity",
+                     "updated":  "2026-09-20",
+                     "icon":  "icons/video-game-life.png",
+                     "apk":  "apps/video-game-life-1.5.25.apk",
+                     "size":  "26.3 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "habit-tracker",
+                     "name":  "HabitTracker",
+                     "tagline":  "Daily habits, weekly tasks and vices, fed to LevelUp",
+                     "description":  "Owns three areas for LevelUp: daily habits, weekly tasks and vices. Plan habits day by day (each week pre-fills from the last), keep a weekly to-do list, and track vices with a budget of 4 weed credits a week, No Porn and 3+ Drinks. Every check-off lands in LevelUp with its XP automatically. Styled after the Solo Leveling System. Works fully offline.",
+                     "version":  "1.0.2",
+                     "category":  "Productivity",
+                     "updated":  "2026-09-20",
+                     "icon":  "icons/habit-tracker.png",
+                     "apk":  "apps/habit-tracker-1.0.2.apk",
+                     "size":  "5.1 MB",
                      "screenshots":  [
 
                                      ]
