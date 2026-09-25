@@ -80,13 +80,29 @@ function apply() {
   render();
 }
 
+// Two ways to end up with an empty grid: nothing in the catalog at all, or a
+// search/category that matched nothing. Each needs different advice.
+function renderEmptyState() {
+  const empty = el('#emptyState');
+  empty.hidden = state.filtered.length !== 0;
+  if (empty.hidden) return;
+
+  const noApps = state.apps.length === 0;
+  el('#emptyArt').textContent = noApps ? '📦' : '🔍';
+  el('#emptyTitle').textContent = noApps ? 'No apps here yet' : 'No matching apps';
+  el('#emptyText').textContent = noApps
+    ? 'Add your first vibe-coded APK and it’ll show up right here.'
+    : 'Try a different search, or pick another category.';
+  el('#emptyHint').hidden = !noApps;  // the add-app tip only helps an empty store
+}
+
 function render() {
   grid.innerHTML = '';
   const count = state.apps.length;
   el('#appCount').textContent =
     count === 0 ? 'No apps yet' : `${count} app${count === 1 ? '' : 's'} · tap to install`;
 
-  el('#emptyState').hidden = count !== 0;
+  renderEmptyState();
 
   state.filtered.forEach((app) => {
     const card = document.createElement('article');

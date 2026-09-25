@@ -1,17 +1,92 @@
-﻿{
+{
     "name":  "Cameron\u0027s App Store",
     "apps":  [
+                 {
+                     "id":  "pep-in-your-step",
+                     "name":  "ProtocolsTracker",
+                     "tagline":  "Track your daily compounds and actions",
+                     "description":  "Schedule recurring compounds (supplements and peptides) and actions with local reminders, check them off each day, and see how often you complete each one. Styled after the Solo Leveling System. Works fully offline.",
+                     "version":  "1.0.10",
+                     "category":  "Health",
+                     "updated":  "2026-09-20",
+                     "icon":  "icons/pep-in-your-step.png",
+                     "apk":  "apps/pep-in-your-step-1.0.10.apk",
+                     "size":  "4.2 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "financial-tracker",
+                     "name":  "FinancialTracker",
+                     "tagline":  "Budget, paycheck split, debts and accounts, fed to LevelUp",
+                     "description":  "Owns Financial Well-Being for LevelUp. Import your budget workbook, enter a paycheck and see exactly where it goes (bills per card, debt payments, savings, and what is left for you). Track monthly expenses and debts, log Emergency Fund, 401k and Roth IRA contributions, and pay off debts one by one for XP. Links SoFi and Fidelity through Plaid for live balances. Encrypted cloud backup. Styled after the Solo Leveling System.",
+                     "version":  "1.0.0",
+                     "category":  "Finance",
+                     "updated":  "2026-09-23",
+                     "icon":  "icons/financial-tracker.png",
+                     "apk":  "apps/financial-tracker-1.0.0.apk",
+                     "size":  "5.2 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "habit-tracker",
+                     "name":  "HabitTracker",
+                     "tagline":  "Daily habits, weekly tasks and vices, fed to LevelUp",
+                     "description":  "Owns three areas for LevelUp: daily habits, weekly tasks and vices. Plan habits day by day (each week pre-fills from the last), keep a weekly to-do list, and log vices: clean weed days, No Porn, No Food Delivery and 3+ Drinks. Every check-off lands in LevelUp with its XP automatically. Styled after the Solo Leveling System. Works fully offline.",
+                     "version":  "1.0.4",
+                     "category":  "Productivity",
+                     "updated":  "2026-09-23",
+                     "icon":  "icons/habit-tracker.png",
+                     "apk":  "apps/habit-tracker-1.0.4.apk",
+                     "size":  "5.1 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "training-tracker",
+                     "name":  "TrainingTracker",
+                     "tagline":  "Plan and time training sessions, and feed them to LevelUp",
+                     "description":  "Owns Strength \u0026 Combat Skills for LevelUp: BJJ, Muay Thai, Boxing, MMA, Strength and Conditioning, and Workouts. Schedule sessions on a day or week grid, run a timer, and set weekly targets like 3 BJJ and 2 Muay Thai. Every completed session checks the matching activity off in LevelUp automatically. Cloud backup. Styled after the Solo Leveling System.",
+                     "version":  "1.0.0",
+                     "category":  "Health",
+                     "updated":  "2026-09-24",
+                     "icon":  "icons/training-tracker.png",
+                     "apk":  "apps/training-tracker-1.0.0.apk",
+                     "size":  "5.3 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
                  {
                      "id":  "video-game-life",
                      "name":  "LevelUp",
                      "tagline":  "Level up your life across nine categories",
-                     "description":  "A gamified personal-development tracker. Earn XP and level up across nine life categories, log activities and daily habits, schedule events, and track vices with streaks. Works fully offline.",
-                     "version":  "1.5.3",
-                     "category":  "Lifestyle",
-                     "updated":  "2026-06-02",
+                     "description":  "A gamified personal-development tracker. Earn XP and level up across nine life categories, read a plain-English consult on your last seven days, and collect completions from HabitTracker, TrainingTracker, WeeklyPlanner and ProtocolsTracker. Works fully offline.",
+                     "version":  "1.5.28",
+                     "category":  "Productivity",
+                     "updated":  "2026-09-24",
                      "icon":  "icons/video-game-life.png",
-                     "apk":  "apps/video-game-life-1.5.3.apk",
-                     "size":  "26.4 MB",
+                     "apk":  "apps/video-game-life-1.5.28.apk",
+                     "size":  "26.3 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "study-planner",
+                     "name":  "StudyTracker",
+                     "tagline":  "Plan study, music and career sessions, and feed them to LevelUp",
+                     "description":  "Plans and times the four areas it owns for LevelUp: Tech Skills, Musicianship, Career, and Study Math. Schedule sessions on a day or week grid, run a timer, set weekly targets for every area like 3 LinkedIn posts, and break study subjects into modules and lessons. Every completed session checks the matching activity off in LevelUp automatically. Styled after the Solo Leveling System. Works fully offline.",
+                     "version":  "1.0.7",
+                     "category":  "Productivity",
+                     "updated":  "2026-09-24",
+                     "icon":  "icons/study-planner.png",
+                     "apk":  "apps/study-planner-1.0.7.apk",
+                     "size":  "5.4 MB",
                      "screenshots":  [
 
                                      ]

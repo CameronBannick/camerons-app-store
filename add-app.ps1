@@ -78,7 +78,10 @@ $catalog.apps = $list
 # Drop the bundled sample once a real app is added
 $catalog.apps = @($catalog.apps | Where-Object { $_.id -ne "sample-app" })
 
-($catalog | ConvertTo-Json -Depth 6) | Set-Content -Path $catalogPath -Encoding utf8
+# Write UTF-8 *without* a BOM. Set-Content -Encoding utf8 adds one on Windows
+# PowerShell 5.1, and that BOM trips any plain JSON parser reading the bytes.
+$json = $catalog | ConvertTo-Json -Depth 6
+[System.IO.File]::WriteAllText($catalogPath, $json, (New-Object System.Text.UTF8Encoding($false)))
 
 Write-Host "Added '$Name' ($sizeStr) -> $apkRel" -ForegroundColor Green
 Write-Host "Now commit & push:" -ForegroundColor Cyan
