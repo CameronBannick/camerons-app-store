@@ -62,21 +62,6 @@
                                      ]
                  },
                  {
-                     "id":  "study-planner",
-                     "name":  "WeeklyPlanner",
-                     "tagline":  "Plan study, music and career sessions, and feed them to LevelUp",
-                     "description":  "Plans and times the four areas it owns for LevelUp: Tech Skills, Musicianship, Career, and Study Math. Schedule sessions on a day or week grid, run a timer, set weekly career targets like 3 LinkedIn posts, and break study subjects into modules and lessons. Every completed session checks the matching activity off in LevelUp automatically. Styled after the Solo Leveling System. Works fully offline.",
-                     "version":  "1.0.6",
-                     "category":  "Productivity",
-                     "updated":  "2026-09-24",
-                     "icon":  "icons/study-planner.png",
-                     "apk":  "apps/study-planner-1.0.6.apk",
-                     "size":  "5.5 MB",
-                     "screenshots":  [
-
-                                     ]
-                 },
-                 {
                      "id":  "video-game-life",
                      "name":  "LevelUp",
                      "tagline":  "Level up your life across nine categories",
@@ -87,6 +72,21 @@
                      "icon":  "icons/video-game-life.png",
                      "apk":  "apps/video-game-life-1.5.28.apk",
                      "size":  "26.3 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "study-planner",
+                     "name":  "StudyTracker",
+                     "tagline":  "Plan study, music and career sessions, and feed them to LevelUp",
+                     "description":  "Plans and times the four areas it owns for LevelUp: Tech Skills, Musicianship, Career, and Study Math. Schedule sessions on a day or week grid, run a timer, set weekly targets for every area like 3 LinkedIn posts, and break study subjects into modules and lessons. Every completed session checks the matching activity off in LevelUp automatically. Styled after the Solo Leveling System. Works fully offline.",
+                     "version":  "1.0.7",
+                     "category":  "Productivity",
+                     "updated":  "2026-09-24",
+                     "icon":  "icons/study-planner.png",
+                     "apk":  "apps/study-planner-1.0.7.apk",
+                     "size":  "5.4 MB",
                      "screenshots":  [
 
                                      ]
