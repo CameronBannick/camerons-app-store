@@ -81,11 +81,11 @@
                      "name":  "StudyTracker",
                      "tagline":  "Plan study, music and career sessions, and feed them to LevelUp",
                      "description":  "Plans and times the four areas it owns for LevelUp: Tech Skills, Musicianship, Career, and Study Math. Schedule sessions on a day or week grid, run a timer, set weekly targets for every area like 3 LinkedIn posts, and break study subjects into modules and lessons. Every completed session checks the matching activity off in LevelUp automatically. Styled after the Solo Leveling System. Works fully offline.",
-                     "version":  "1.0.7",
+                     "version":  "1.0.8",
                      "category":  "Productivity",
-                     "updated":  "2026-09-24",
+                     "updated":  "2026-09-25",
                      "icon":  "icons/study-planner.png",
-                     "apk":  "apps/study-planner-1.0.7.apk",
+                     "apk":  "apps/study-planner-1.0.8.apk",
                      "size":  "5.4 MB",
                      "screenshots":  [
 
