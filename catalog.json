@@ -2,21 +2,6 @@
     "name":  "Cameron\u0027s App Store",
     "apps":  [
                  {
-                     "id":  "pep-in-your-step",
-                     "name":  "ProtocolsTracker",
-                     "tagline":  "Track your daily compounds and actions",
-                     "description":  "Schedule recurring compounds (supplements and peptides) and actions with local reminders, check them off each day, and see how often you complete each one. Styled after the Solo Leveling System. Works fully offline.",
-                     "version":  "1.0.10",
-                     "category":  "Health",
-                     "updated":  "2026-09-20",
-                     "icon":  "icons/pep-in-your-step.png",
-                     "apk":  "apps/pep-in-your-step-1.0.10.apk",
-                     "size":  "4.2 MB",
-                     "screenshots":  [
-
-                                     ]
-                 },
-                 {
                      "id":  "financial-tracker",
                      "name":  "FinancialTracker",
                      "tagline":  "Budget, paycheck split, debts and accounts, fed to LevelUp",
@@ -62,21 +47,6 @@
                                      ]
                  },
                  {
-                     "id":  "video-game-life",
-                     "name":  "LevelUp",
-                     "tagline":  "Level up your life across nine categories",
-                     "description":  "A gamified personal-development tracker. Earn XP and level up across nine life categories, read a plain-English consult on your last seven days, and collect completions from HabitTracker, TrainingTracker, WeeklyPlanner and ProtocolsTracker. Works fully offline.",
-                     "version":  "1.5.28",
-                     "category":  "Productivity",
-                     "updated":  "2026-09-24",
-                     "icon":  "icons/video-game-life.png",
-                     "apk":  "apps/video-game-life-1.5.28.apk",
-                     "size":  "26.3 MB",
-                     "screenshots":  [
-
-                                     ]
-                 },
-                 {
                      "id":  "study-planner",
                      "name":  "StudyTracker",
                      "tagline":  "Plan study, music and career sessions, and feed them to LevelUp",
@@ -87,6 +57,36 @@
                      "icon":  "icons/study-planner.png",
                      "apk":  "apps/study-planner-1.0.8.apk",
                      "size":  "5.4 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "video-game-life",
+                     "name":  "LevelUp",
+                     "tagline":  "Level up your life across nine categories",
+                     "description":  "A gamified personal-development tracker. Earn XP and level up across nine life categories, read a plain-English consult on your last seven days, and collect completions from HabitTracker, TrainingTracker, WeeklyPlanner and ProtocolsTracker. Works fully offline.",
+                     "version":  "1.5.29",
+                     "category":  "Productivity",
+                     "updated":  "2026-10-05",
+                     "icon":  "icons/video-game-life.png",
+                     "apk":  "apps/video-game-life-1.5.29.apk",
+                     "size":  "26.3 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "pep-in-your-step",
+                     "name":  "ProtocolsTracker",
+                     "tagline":  "Track your daily compounds and actions",
+                     "description":  "Schedule recurring compounds (supplements and peptides) and actions with local reminders, check them off each day, and see how often you complete each one. Styled after the Solo Leveling System. Works fully offline.",
+                     "version":  "1.0.11",
+                     "category":  "Health",
+                     "updated":  "2026-10-05",
+                     "icon":  "icons/pep-in-your-step.png",
+                     "apk":  "apps/pep-in-your-step-1.0.11.apk",
+                     "size":  "4.2 MB",
                      "screenshots":  [
 
                                      ]
