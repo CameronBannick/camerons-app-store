@@ -32,21 +32,6 @@
                                      ]
                  },
                  {
-                     "id":  "training-tracker",
-                     "name":  "TrainingTracker",
-                     "tagline":  "Plan and time training sessions, and feed them to LevelUp",
-                     "description":  "Owns Strength \u0026 Combat Skills for LevelUp: BJJ, Muay Thai, Boxing, MMA, Strength and Conditioning, and Workouts. Schedule sessions on a day or week grid, run a timer, and set weekly targets like 3 BJJ and 2 Muay Thai. Every completed session checks the matching activity off in LevelUp automatically. Cloud backup. Styled after the Solo Leveling System.",
-                     "version":  "1.0.0",
-                     "category":  "Health",
-                     "updated":  "2026-09-24",
-                     "icon":  "icons/training-tracker.png",
-                     "apk":  "apps/training-tracker-1.0.0.apk",
-                     "size":  "5.3 MB",
-                     "screenshots":  [
-
-                                     ]
-                 },
-                 {
                      "id":  "study-planner",
                      "name":  "StudyTracker",
                      "tagline":  "Plan study, music and career sessions, and feed them to LevelUp",
@@ -87,6 +72,21 @@
                      "icon":  "icons/pep-in-your-step.png",
                      "apk":  "apps/pep-in-your-step-1.0.11.apk",
                      "size":  "4.2 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "training-tracker",
+                     "name":  "TrainingTracker",
+                     "tagline":  "Plan and time training sessions, and feed them to LevelUp",
+                     "description":  "Owns Strength \u0026 Combat Skills for LevelUp: BJJ, Muay Thai, Boxing, MMA, Strength and Conditioning, and Workouts. Schedule sessions on a day or week grid, run a timer, and set weekly targets like 3 BJJ and 2 Muay Thai. Log sets, reps and weights for lifting and workouts, and run timed intervals with a guided beeping timer. Every completed session checks the matching activity off in LevelUp automatically. Cloud backup. Styled after the Solo Leveling System.",
+                     "version":  "1.0.1",
+                     "category":  "Health",
+                     "updated":  "2026-10-07",
+                     "icon":  "icons/training-tracker.png",
+                     "apk":  "apps/training-tracker-1.0.1.apk",
+                     "size":  "5.4 MB",
                      "screenshots":  [
 
                                      ]
