@@ -2,21 +2,6 @@
     "name":  "Cameron\u0027s App Store",
     "apps":  [
                  {
-                     "id":  "habit-tracker",
-                     "name":  "HabitTracker",
-                     "tagline":  "Daily habits, weekly tasks and vices, fed to LevelUp",
-                     "description":  "Owns three areas for LevelUp: daily habits, weekly tasks and vices. Plan habits day by day (each week pre-fills from the last), keep a weekly to-do list, and log vices: clean weed days, No Porn, No Food Delivery and 3+ Drinks. Every check-off lands in LevelUp with its XP automatically. Styled after the Solo Leveling System. Works fully offline.",
-                     "version":  "1.0.4",
-                     "category":  "Productivity",
-                     "updated":  "2026-09-23",
-                     "icon":  "icons/habit-tracker.png",
-                     "apk":  "apps/habit-tracker-1.0.4.apk",
-                     "size":  "5.1 MB",
-                     "screenshots":  [
-
-                                     ]
-                 },
-                 {
                      "id":  "study-planner",
                      "name":  "StudyTracker",
                      "tagline":  "Plan study, music and career sessions, and feed them to LevelUp",
@@ -27,21 +12,6 @@
                      "icon":  "icons/study-planner.png",
                      "apk":  "apps/study-planner-1.0.8.apk",
                      "size":  "5.4 MB",
-                     "screenshots":  [
-
-                                     ]
-                 },
-                 {
-                     "id":  "pep-in-your-step",
-                     "name":  "ProtocolsTracker",
-                     "tagline":  "Track your daily compounds and actions",
-                     "description":  "Schedule recurring compounds (supplements and peptides) and actions with local reminders, check them off each day, and see how often you complete each one. Styled after the Solo Leveling System. Works fully offline.",
-                     "version":  "1.0.11",
-                     "category":  "Health",
-                     "updated":  "2026-10-05",
-                     "icon":  "icons/pep-in-your-step.png",
-                     "apk":  "apps/pep-in-your-step-1.0.11.apk",
-                     "size":  "4.2 MB",
                      "screenshots":  [
 
                                      ]
@@ -87,6 +57,36 @@
                      "icon":  "icons/financial-tracker.png",
                      "apk":  "apps/financial-tracker-1.0.1.apk",
                      "size":  "5.2 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "habit-tracker",
+                     "name":  "HabitTracker",
+                     "tagline":  "Daily habits and weekly tasks, fed to LevelUp",
+                     "description":  "Owns two areas for LevelUp: daily habits and weekly tasks. Plan habits day by day (each week pre-fills from the last) and keep a weekly to-do list. Every check-off lands in LevelUp with its XP automatically. Styled after the Solo Leveling System. Works fully offline.",
+                     "version":  "1.0.5",
+                     "category":  "Productivity",
+                     "updated":  "2026-10-07",
+                     "icon":  "icons/habit-tracker.png",
+                     "apk":  "apps/habit-tracker-1.0.5.apk",
+                     "size":  "5.1 MB",
+                     "screenshots":  [
+
+                                     ]
+                 },
+                 {
+                     "id":  "pep-in-your-step",
+                     "name":  "ProtocolsTracker",
+                     "tagline":  "Stacks, weekly protocols and sober counters",
+                     "description":  "Group your supplements and peptides into Morning, Evening and Sleep stacks, each with one daily reminder. Count protocols per week, and keep a sober counter per vice that only resets when you log a slip. Every stack cleared, weekly target hit and clean day lands in LevelUp with its XP. Styled after the Solo Leveling System. Works fully offline.",
+                     "version":  "1.0.12",
+                     "category":  "Health",
+                     "updated":  "2026-10-07",
+                     "icon":  "icons/pep-in-your-step.png",
+                     "apk":  "apps/pep-in-your-step-1.0.12.apk",
+                     "size":  "4.3 MB",
                      "screenshots":  [
 
                                      ]
